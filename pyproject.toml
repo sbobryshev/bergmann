@@ -20,7 +20,7 @@ ruff = "^0.4.4"
 pyright = "^1.1.363"
 pre-commit = "^3.7.1"
 textual-dev = "^1.5.1"
-pytest = "^8.2.1"
+pytest = ">=8.2.1,<10.0.0"
 pytest-cov = "^5.0.0"
 
 [build-system]
