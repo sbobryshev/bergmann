@@ -11,7 +11,7 @@ bergmann = "bergmann.main:main"
 [tool.poetry.dependencies]
 python = "^3.12"
 textual = ">=0.61.1,<8.2.0"
-grassnechik = "0.2.0"
+grassnechik = "0.3.1"
 pyperclip = "^1.8.2"
 
 

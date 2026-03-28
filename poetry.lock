@@ -408,14 +408,14 @@ files = [
 
 [[package]]
 name = "grassnechik"
-version = "0.2.0"
+version = "0.3.1"
 description = "Cryptography Library"
 optional = false
 python-versions = "<4.0,>=3.12"
 groups = ["main"]
 files = [
-    {file = "grassnechik-0.2.0-py3-none-any.whl", hash = "sha256:120a58095d063e7278756165d788765a0ac8f2c619f1d31cc36794870d3aaee0"},
-    {file = "grassnechik-0.2.0.tar.gz", hash = "sha256:79f24084b468be65702d5fe6bd40fecbc47eb65ddfb1e023d56ae3a4268261bf"},
+    {file = "grassnechik-0.3.1-py3-none-any.whl", hash = "sha256:cdfef3c0ada770720d73a1373d7e25e91188cd7161d338abf0108ec20971e8bd"},
+    {file = "grassnechik-0.3.1.tar.gz", hash = "sha256:a0bd42ef9b890177701285d77532c660a7910539ae8496ffc49320f73104119d"},
 ]
 
 [[package]]
@@ -1190,4 +1190,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.12"
-content-hash = "e4f376b5ddcf8cfb83b96fbfd68691dd7b19dec4e388dd566567259ba5a62cf8"
+content-hash = "18f0bb9c63d909bf45d63d68590c1be9d31673d7c303056a023958c875bc5cd3"
